@@ -1588,6 +1588,10 @@
           {
             "type": "alignment",
             "value": "Forest",
+            "rarity": [
+              "EPIC",
+              "EPIC"
+            ],
             "amount": 5
           }
         ],
